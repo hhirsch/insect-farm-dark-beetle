@@ -1,2 +1,13 @@
 * Farming Tenebrio molitor and Zoophobas morio
-Open Source Insect Farm
+** Containers
+Any container that is high enough so that the adult animals can not crawl out will do.
+** Food
+Oatmeal and letuce.
+** Setting Up the Farm
+- Add woodchips to container.
+- Add larvae to container.
+- Add food to the container.
+** Cleaning Up
+- Run the substrate through a sieve.
+- Remove and old food.
+- Remove dead beetles.
