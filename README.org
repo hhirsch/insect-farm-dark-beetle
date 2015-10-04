@@ -9,5 +9,5 @@ Oatmeal and letuce.
 - Add food to the container.
 ** Cleaning Up
 - Run the substrate through a sieve.
-- Remove and old food.
+- Remove any old food.
 - Remove dead beetles.
