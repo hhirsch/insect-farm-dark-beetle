@@ -1,2 +1,2 @@
-* insect-farm-morio
+* Farming Tenebrio molitor and Zoophobas morio
 Open Source Insect Farm
