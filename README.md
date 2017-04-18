@@ -1,7 +1,6 @@
+[![Join the chat at https://gitter.im/hhirsch/insect-farm-dark-beetle](https://badges.gitter.im/hhirsch/insect-farm-dark-beetle.svg)](https://gitter.im/hhirsch/insect-farm-dark-beetle?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 # Farming Tenebrio molitor and Zoophobas morio
 ## Obtaining Specimen
-
-[![Join the chat at https://gitter.im/hhirsch/insect-farm-dark-beetle](https://badges.gitter.im/hhirsch/insect-farm-dark-beetle.svg)](https://gitter.im/hhirsch/insect-farm-dark-beetle?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 You can buy your first batch of larvae at the pet store.
 ## Containers
 Any container that is high enough so that the adult animals can not crawl out will do. Do not use air tight containers.
