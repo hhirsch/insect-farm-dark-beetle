@@ -1,4 +1,6 @@
 # Farming Tenebrio molitor and Zoophobas morio
+## Obtaining Specimen
+You can buy your first batch of larvae at the pet store.
 ## Containers
 Any container that is high enough so that the adult animals can not crawl out will do. Do not use air tight containers.
 ## Food
